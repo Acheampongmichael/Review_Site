@@ -1,0 +1,49 @@
+.profile{
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    filter: drop-shadow(9px 1px rgb(0, 217, 255));
+}
+
+.name{
+    margin-top: 5px;
+    margin-bottom: 2px;
+    font-size: 25px;
+}
+
+.job{
+    margin-top: 2px;
+    color: rgb(0, 162, 255);
+    font-size: 15px;
+}
+
+p{
+    color:rgb(70, 73, 73);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.btn{
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.profile1{
+    margin-bottom: 15px;
+}
+
+.profile2{
+    margin-top: 5px;
+}
+
+.fontawesomesvg {width: 1em;
+    height: 1em;
+    vertical-align: -.125em;
+    margin-bottom: 10px;
+    margin-right: 5px;
+  }
